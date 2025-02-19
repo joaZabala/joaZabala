@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Full Stack | Apasionado por la tecnología y el aprendizaje continuo** 🚀  
 
- <sub>🚀 Apasionado por la tecnología y el aprendizaje continuo. Me encanta explorar nuevas herramientas, resolver problemas y mejorar constantemente mis habilidades en desarrollo de software. Siempre en busca de nuevos desafíos para seguir creciendo.</sub>
+ <small>🚀 Apasionado por la tecnología y el aprendizaje continuo. Me encanta explorar nuevas herramientas, resolver problemas y mejorar constantemente mis habilidades en desarrollo de software. Siempre en busca de nuevos desafíos para seguir creciendo.</small>
 
 ---
 
